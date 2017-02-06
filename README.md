@@ -1,3 +1,4 @@
 # Fractal
 Fractal maker
-makes fractal patterns
+
+Makes fractal patterns
